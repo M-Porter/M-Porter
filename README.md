@@ -10,7 +10,7 @@
 **Matthew Porter** - backend engineer, tinkerer, problem solver located in Phoenix, Arizona ☀️🌵
 
 - 🛠  I build large scale distributed systems with developer ergonomics in mind.
-- 🌱  Currently working on my side project (PrixFixe)[https://github.com/M-Porter/prixfixe].
+- 🌱  Currently working on my side project [PrixFixe](https://github.com/M-Porter/prixfixe).
 - 🤝  Open to hiring and discussions why the Pittsburgh Penguins 🐧 are the best hockey team.
 - ⚡  Fun fact... I don't have fingerprints on my left hand.
 
