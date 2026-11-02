@@ -11,7 +11,7 @@
 
 - 🛠  I build large scale distributed systems with developer ergonomics in mind.
 - 🌱  Currently working on my side project [PrixFixe](https://github.com/M-Porter/prixfixe) and getting around to making some needed updates to [jumper](https://github.com/M-Porter/jumper/).
-- 🤝  Open to hiring and discussions why the Pittsburgh Penguins 🐧 are the best hockey team.
+- 🤝  Open to discuss why the Pittsburgh Penguins 🐧 are the best hockey team.
 - ⚡  Fun fact... I don't have fingerprints on my left hand.
 
 ## `$ ls /skills`
